@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Dulaj Thiwanka</h1>
-<h3>Undergraduate In SLIIT @SriLanka</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=%23F7D405&size=22&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulaj+Thiwanka;Undergraduate)](https://git.io/typing-svg)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
@@ -39,5 +38,6 @@
 </p>
 
 <hr>
+
 
 
