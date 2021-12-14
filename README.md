@@ -39,6 +39,8 @@
 </p>
 
 <hr>
-
+<p align="left">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DThiwanka&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=DDC900)](https://git.io/streak-stats)
+</p>
 
 
