@@ -1,6 +1,8 @@
 ![Header](./header.png)
 
-<h3>Undergraduate In SLIIT @SriLanka</h3>
+<h3>Undergraduate Student @SLIIT</h3>
+<h6>BSc (Hons) in Information Technology
+Specialising in Information Technology</h6>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
