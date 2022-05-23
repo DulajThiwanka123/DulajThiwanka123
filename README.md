@@ -63,4 +63,4 @@
   </a>
 </p>
 <br>
- <img width="35%" align="right" src= "https://raw.githubusercontent.com/DulajThiwanka123/DulajThiwanka123/06a9c46f1e45935c0673ca516a2eff05dac019c3/profile-3d-contrib/profile-night-view.svg">
+![](./profile-3d-contrib/profile-night-green.svg)
