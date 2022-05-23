@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=21&duration=5300&color=F77E0C&center=true&vCenter=true&lines=J+K+M+D+T+Jayawardana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=25&duration=5300&color=F77E0C&lines=Hello+I'm+Dulaj+Thiwanka+Jayawardana)](https://git.io/typing-svg)
 <h3>Undergraduate In SLIIT @SriLanka</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
