@@ -63,4 +63,4 @@
   </a>
 </p>
 <br>
-![](./profile-3d-contrib/profile-night-green.svg)
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-green.svg)
