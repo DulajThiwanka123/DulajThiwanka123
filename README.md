@@ -54,7 +54,7 @@
 <br>
 
 [![Dulaj Thiwanka' Activity Graph](https://activity-graph.herokuapp.com/graph?username=dthiwanka&custom_title=Dulaj's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dthiwanka.github.io)
-![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-gitblock.svg)
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-green.svg)
 <hr>
 <p align="left">
   <a href="https://dthiwanka.github.io">
