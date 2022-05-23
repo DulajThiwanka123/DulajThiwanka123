@@ -1,5 +1,5 @@
 ![Header](./header.png)
-![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-green.svg)
+
 <h3>Undergraduate In SLIIT @SriLanka</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
@@ -63,5 +63,6 @@
    
   </a>
 </p>
+![Dulaj Thiwanka' 3D Graph](./profile-3d-contrib/profile-night-green.svg)
 <br>
 
