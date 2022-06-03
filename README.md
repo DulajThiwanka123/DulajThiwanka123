@@ -24,7 +24,7 @@ Specialising in Information Technology</h6>
 
 <hr>
 
-<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
+<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="20px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/dulaj-thi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-thi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16438406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16438406" height="30" width="40" /></a>
