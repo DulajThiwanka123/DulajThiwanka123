@@ -7,7 +7,7 @@ Specialising in Information Technology</h6>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajth&label=Profile%20views&color=0e75b6&style=flat" alt="dulajth" /> </p> -->
 
 <hr>
-<h4>∙∙ Thank You for taking the time to view my GitHub Profile 👏</h4>
+<h4>∙∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
 
 - 🔭 I’m currently working at **Axiata Digital Labs** as a Intern software engineer
