@@ -20,7 +20,7 @@ Specialising in Information Technology</h6>
 
 <!-- - 🤔 I’m looking for help with **My projects** -->
 
-- ⚡ Fun fact **Sometimes, I talking with myself :wave: **
+- ⚡ Fun fact ##Sometimes, I talking with myself :wave: 
 
 <hr>
 
